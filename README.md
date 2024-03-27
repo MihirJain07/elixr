@@ -1,2 +1,0 @@
-# elixr
-GitHub Pages
